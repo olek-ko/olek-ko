@@ -6,8 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 ## Tools and Technologies 🛠
 
 <table align="center">
@@ -81,7 +79,6 @@
 - 👨‍💻&emsp; All of my projects are in [here](https://github.com/ironcg20)
 - ⚡&emsp; I have a rapid development speed **Quick**
 - 📧&emsp; Reach anytime: [here](xxx@gmail.com)
-- 💬&emsp; Leave issues [here](https://github.com/ironcg20/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
